@@ -85,7 +85,8 @@ Our data model has been created through collaboration, considering the specific 
 
 <img width="778" alt="Screenshot 2023-11-03 at 3 34 22 PM" src="https://github.com/haileytrivedi/MIST4610-Group-Project-1/assets/149614680/bd0e7591-f031-4ae3-a97f-42d3f8310a3e">
 
-<img width="806" alt="Screenshot 2023-11-03 at 3 34 40 PM" src="https://github.com/haileytrivedi/MIST4610-Group-Project-1/assets/149614680/dc5a60ff-a27d-4ba6-ab8c-f3b6da0a577c">
+<img width="760" alt="Screenshot 2023-11-03 at 6 30 29 PM" src="https://github.com/haileytrivedi/MIST4610-Group-Project-1/assets/149614680/eed1bdcf-4baf-4d68-8206-831af587a676">
+
 
 <img width="806" alt="Screenshot 2023-11-03 at 3 34 56 PM" src="https://github.com/haileytrivedi/MIST4610-Group-Project-1/assets/149614680/dd388080-5e84-4afa-b9eb-7ff4f74b902b">
 
