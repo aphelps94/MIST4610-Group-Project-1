@@ -36,7 +36,8 @@ These are a handful of screenshots highlighting our conversation with the client
 
 <img width="684" alt="Screenshot 2023-11-03 at 6 12 40 PM" src="https://github.com/haileytrivedi/MIST4610-Group-Project-1/assets/149614680/14dbc06b-3d29-4c15-9015-686faa81a835">
 
-<img width="675" alt="Screenshot 2023-11-03 at 6 13 01 PM" src="https://github.com/haileytrivedi/MIST4610-Group-Project-1/assets/149614680/f74f06c5-7e07-4803-b9fc-be07b292d0e0">
+<img width="755" alt="Screenshot 2023-11-03 at 6 28 58 PM" src="https://github.com/haileytrivedi/MIST4610-Group-Project-1/assets/149614680/b881821e-2ba5-4660-987a-26a6c8370552">
+
 
 <img width="705" alt="Screenshot 2023-11-03 at 6 13 30 PM" src="https://github.com/haileytrivedi/MIST4610-Group-Project-1/assets/149614680/39cca55c-6bde-4e81-ac82-d15479e15b0d">
 
