@@ -6,13 +6,13 @@
 
 ## Team Members: 
 
-Megan Gentles ([megangentles][https://github.com/megangentles](https://github.com/megangentles))
+Megan Gentles 
 
 Kilpatrick, Lindsay @lindsaykilpatrick
 
 Phelps, Aaron @aaronphelps
 
-Trivedi, Hailey @haileytrivedi
+Hailey Trivedi [@haileytrivedi](https://github.com/haileytrivedi/MIST4610-Group-Project-1)
 
 Solipuram, Sahana @sahanasolipuram 
 
