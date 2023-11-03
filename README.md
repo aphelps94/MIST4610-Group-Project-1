@@ -23,6 +23,8 @@ Paige Sawyer @paigesawyer
 
 The objective is to create a comprehensive relational database for an emergency healthcare clinic dedicated to providing critical medical services. The database must efficiently manage patient information, medical staff, administrative staff, emergency records, equipment, facility details, insurance and billing, emergency contacts, scheduling, security, training, and incident reporting. Patients are linked to their records, medical staff to patients, administrative staff to billing and appointments, emergency records to patients and staff, equipment to facilities, insurance and billing to patients, emergency contacts to patient records, scheduling to patients and staff, and security to staff records. The database aims to streamline data management, reporting, and operational needs in this healthcare setting.
 
+
+
 ## Data Model:
 
 Explanation of data model: 
@@ -36,10 +38,6 @@ Doctors are crucial, and we've got a 'Doctors' entity that makes sure we know wh
 We're also managing the lifeline of healthcare, and medical equipment, with the 'Equipment Inventory' entity. This helps us keep tabs on all the equipment, like its ID, where it's located, and when it was bought. Our 'Support Staff' entity recognizes the essential roles played by support staff members. We've also focused on referrals, which are key in healthcare, through the 'Referral' entity. Diagnostics are crucial, and our 'Laboratory Tests' entity ensures we've got that covered. It's linked to patients and doctors, making sure we have a full picture. Medical history is deeply personal, so we've made sure to capture it using the 'Medical History' entity. It's linked directly to the patient for a more personalized approach.
 
 Our data model has been created through collaboration, considering the specific needs and requirements of our client. It's designed to handle everything, from patient care to medication management, diagnostics, and appointment scheduling, ensuring a seamless healthcare system. It's been a labor of love, and we're confident it'll make a real difference in the healthcare landscape.
-
-
-
-
 
 <img width="631" alt="Screenshot 2023-11-03 at 2 46 34 PM" src="https://github.com/haileytrivedi/MIST4610-Group-Project-1/assets/149614680/518da1f0-de85-48a7-a3aa-e3c47af88fea">
 
