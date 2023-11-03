@@ -1,8 +1,6 @@
 
 ## Group Name
 39217 Group 5
-## Group Name
-39217 Group 5
 ## Problem description:
 
 Pretend you are the owner/operator of a emergency healthcare clinic needing to build a
