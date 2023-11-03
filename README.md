@@ -8,15 +8,15 @@
 
 Megan Gentles 
 
-Kilpatrick, Lindsay @lindsaykilpatrick
+Lindsay Kilpatrick @lindsaykilpatrick
 
-Phelps, Aaron @aaronphelps
+Aaron Phelps @aaronphelps
 
 Hailey Trivedi [@haileytrivedi](https://github.com/haileytrivedi/MIST4610-Group-Project-1)
 
-Solipuram, Sahana @sahanasolipuram 
+Sahana Solipuram  
 
-Sawyer, Paige @paigesawyer
+Paige Sawyer @paigesawyer
 
 
 ## Problem Description:
