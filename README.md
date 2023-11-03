@@ -6,17 +6,17 @@
 
 ## Team Members: 
 
-Megan Gentles 
+Megan Gentles [@megangentles](https://github.com/megangentles)
 
-Lindsay Kilpatrick @lindsaykilpatrick
+Lindsay Kilpatrick [@lindsaykilpatrick](https://github.com/lindsaykilpatrick)
 
 Aaron Phelps [@aaronphelps](https://github.com/aphelps94)
 
-Hailey Trivedi [@haileytrivedi](https://github.com/haileytrivedi/MIST4610-Group-Project-1)
+Hailey Trivedi [@haileytrivedi](https://github.com/haileytrivedi)
 
-Sahana Solipuram  
+Sahana Solipuram [@sahanasolipuram](https://github.com/sahanasolipuram)
 
-Paige Sawyer @paigesawyer
+Paige Sawyer [@paigesawyer](https://github.com/paigesawyer)
 
 
 ## Problem Description:
