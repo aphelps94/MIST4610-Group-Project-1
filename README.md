@@ -23,6 +23,25 @@ Paige Sawyer @paigesawyer
 
 The objective is to create a comprehensive relational database for an emergency healthcare clinic dedicated to providing critical medical services. The database must efficiently manage patient information, medical staff, administrative staff, emergency records, equipment, facility details, insurance and billing, emergency contacts, scheduling, security, training, and incident reporting. Patients are linked to their records, medical staff to patients, administrative staff to billing and appointments, emergency records to patients and staff, equipment to facilities, insurance and billing to patients, emergency contacts to patient records, scheduling to patients and staff, and security to staff records. The database aims to streamline data management, reporting, and operational needs in this healthcare setting.
 
+### ChatGPT Highlights:
+These are a handful of screenshots highlighting our conversation with the client(ChatGPT) describing elements and relationships in the model. 
+
+<img width="676" alt="Screenshot 2023-11-03 at 6 10 46 PM" src="https://github.com/haileytrivedi/MIST4610-Group-Project-1/assets/149614680/bc3e458d-4c6a-4a6a-8581-cd2f91a8f3a4">
+
+<img width="668" alt="Screenshot 2023-11-03 at 6 11 10 PM" src="https://github.com/haileytrivedi/MIST4610-Group-Project-1/assets/149614680/0ccdbb2e-ec5e-40a3-a561-3efcd2576691">
+
+<img width="708" alt="Screenshot 2023-11-03 at 6 11 44 PM" src="https://github.com/haileytrivedi/MIST4610-Group-Project-1/assets/149614680/91e75fd3-de3f-4259-8889-fa0902ba31c1">
+
+<img width="683" alt="Screenshot 2023-11-03 at 6 12 17 PM" src="https://github.com/haileytrivedi/MIST4610-Group-Project-1/assets/149614680/5388ef90-b1c6-4a86-acd2-f214cd0669db">
+
+<img width="684" alt="Screenshot 2023-11-03 at 6 12 40 PM" src="https://github.com/haileytrivedi/MIST4610-Group-Project-1/assets/149614680/14dbc06b-3d29-4c15-9015-686faa81a835">
+
+<img width="675" alt="Screenshot 2023-11-03 at 6 13 01 PM" src="https://github.com/haileytrivedi/MIST4610-Group-Project-1/assets/149614680/f74f06c5-7e07-4803-b9fc-be07b292d0e0">
+
+<img width="705" alt="Screenshot 2023-11-03 at 6 13 30 PM" src="https://github.com/haileytrivedi/MIST4610-Group-Project-1/assets/149614680/39cca55c-6bde-4e81-ac82-d15479e15b0d">
+
+<img width="690" alt="Screenshot 2023-11-03 at 6 15 04 PM" src="https://github.com/haileytrivedi/MIST4610-Group-Project-1/assets/149614680/4b399eb8-c433-4b12-bc9a-1fec3abcee06">
+
 
 
 ## Data Model:
