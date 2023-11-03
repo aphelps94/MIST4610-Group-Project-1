@@ -31,6 +31,32 @@ Explanation of data model:
 
 
 ## Data Dictionary:
+
+<img width="805" alt="Screenshot 2023-11-03 at 3 31 18 PM" src="https://github.com/haileytrivedi/MIST4610-Group-Project-1/assets/149614680/ae9ce74d-d56c-4b68-8900-4a9665d7fe45">
+
+<img width="809" alt="Screenshot 2023-11-03 at 3 31 38 PM" src="https://github.com/haileytrivedi/MIST4610-Group-Project-1/assets/149614680/eef9c409-74d0-4a60-b853-8947d4b6cecd">
+
+<img width="809" alt="Screenshot 2023-11-03 at 3 31 56 PM" src="https://github.com/haileytrivedi/MIST4610-Group-Project-1/assets/149614680/0158b241-bd16-46f2-8f4b-3b1556444778">
+
+<img width="804" alt="Screenshot 2023-11-03 at 3 32 14 PM" src="https://github.com/haileytrivedi/MIST4610-Group-Project-1/assets/149614680/f7529fc3-a023-4d0d-88a5-98ff34ed7d10">
+
+<img width="800" alt="Screenshot 2023-11-03 at 3 32 38 PM" src="https://github.com/haileytrivedi/MIST4610-Group-Project-1/assets/149614680/9b92b1dc-d654-415d-af84-3ac7d6e329a4">
+
+<img width="798" alt="Screenshot 2023-11-03 at 3 32 57 PM" src="https://github.com/haileytrivedi/MIST4610-Group-Project-1/assets/149614680/8358e73f-7dee-4c28-a8dd-c04b42f3e554">
+
+<img width="794" alt="Screenshot 2023-11-03 at 3 33 20 PM" src="https://github.com/haileytrivedi/MIST4610-Group-Project-1/assets/149614680/34b47b0f-a0e7-4b3b-b052-2b9ae4d960eb">
+
+<img width="787" alt="Screenshot 2023-11-03 at 3 33 35 PM" src="https://github.com/haileytrivedi/MIST4610-Group-Project-1/assets/149614680/ce66dee8-c6ce-48c1-be1b-b92a09a7486b">
+
+<img width="778" alt="Screenshot 2023-11-03 at 3 33 59 PM" src="https://github.com/haileytrivedi/MIST4610-Group-Project-1/assets/149614680/320d8dac-188d-47e6-bc82-9efb1107cfd7">
+
+<img width="778" alt="Screenshot 2023-11-03 at 3 34 22 PM" src="https://github.com/haileytrivedi/MIST4610-Group-Project-1/assets/149614680/bd0e7591-f031-4ae3-a97f-42d3f8310a3e">
+
+<img width="806" alt="Screenshot 2023-11-03 at 3 34 40 PM" src="https://github.com/haileytrivedi/MIST4610-Group-Project-1/assets/149614680/dc5a60ff-a27d-4ba6-ab8c-f3b6da0a577c">
+
+<img width="806" alt="Screenshot 2023-11-03 at 3 34 56 PM" src="https://github.com/haileytrivedi/MIST4610-Group-Project-1/assets/149614680/dd388080-5e84-4afa-b9eb-7ff4f74b902b">
+
+
 ## Queries:
 
 <img width="713" alt="Screenshot 2023-11-03 at 3 23 04 PM" src="https://github.com/haileytrivedi/MIST4610-Group-Project-1/assets/149614680/5fd5df46-cbe7-450c-a121-e22059e926d4">
