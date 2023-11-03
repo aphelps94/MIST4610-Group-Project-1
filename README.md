@@ -10,7 +10,7 @@ Megan Gentles
 
 Lindsay Kilpatrick @lindsaykilpatrick
 
-Aaron Phelps https://github.com/aphelps94
+Aaron Phelps [@aaronphelps](https://github.com/aphelps94)
 
 Hailey Trivedi [@haileytrivedi](https://github.com/haileytrivedi/MIST4610-Group-Project-1)
 
