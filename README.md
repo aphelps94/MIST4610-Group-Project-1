@@ -6,7 +6,7 @@
 
 ## Team Members: 
 
-Gentles, Megan @megangentles, https://github.com/megangentles
+Gentles, Megan @megangentles
 
 Kilpatrick, Lindsay @lindsaykilpatrick
 
