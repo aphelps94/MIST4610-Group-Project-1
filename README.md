@@ -155,3 +155,8 @@ List the equipment ID, equipment name, and the percentage of total equipment cos
 
 
 ## Database Information
+Name of Database ns_F2339217Group5
+Additional Information: Each query listed above is marked in the database using stored procedures which can be called using the following format: CALL TP_QX(); 
+Where 'X' represents the Query number
+ex: CALL TP_Q1();
+
